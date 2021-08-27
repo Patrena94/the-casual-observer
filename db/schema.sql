@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS newsfeed_db;
+DROP DATABASE IF EXISTS the_casual_observer_db;
 
-CREATE DATABASE newsfeed_db;
+CREATE DATABASE the_casual_observer_db;
