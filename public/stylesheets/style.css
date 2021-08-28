@@ -14,8 +14,8 @@ p {
 }
 .hero {
   padding: 3% 4%;
-  background-color: var(--dark);
-  color: var(--primary);
+  background-color:  rgb(22, 8, 8);
+  color: Teal;
 }
 .hero p {
   max-width: 75%;
@@ -23,12 +23,12 @@ p {
 
 .logo {
   font-size: 3rem;
-  background-color: var(--primary);
-  color: var(--dark);
+  background-color: teal;
+  color:  rgb(22, 8, 8);
   padding: 0 10px;
   display: inline-block;
-  border-radius: var(--border-radius);
-  box-shadow: 6px 5px var(--light-dark);
+  border-radius: 15px;
+  box-shadow: 6px 5px beige;
 }
 body, html {
   height: 100%;
@@ -41,7 +41,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: Navy;
+  color:Teal;
   font-weight: bold;
   transition: color .1s;
 }
