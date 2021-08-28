@@ -10,21 +10,21 @@
 
 <body>
   <div class="wrapper">
-    <header>
-      <h2>
-        <a href="#default" class ="logo">The Casual Observer</a>
-      </h2>
+    <header class ="hero">
+      <div>
       <nav>
         <a href="/">Home</a>
-        
+         <a href="/dashboard">Dashboard</a>
         {{#if loggedIn}}
-        <a href="/dashboard">Dashboard</a>
         <button id="logout" class="btn-no-style">Logout</button>
         {{else}}
         <a href="/signup">Signup</a>
         <a href="/login">Login</a>
         {{/if}}
       </nav>
+      </div>
+
+     <h1 class ="logo"><i class="fab"></i>The Casual Observer</h2>
     </header>
     <main>
       {{{ body }}}

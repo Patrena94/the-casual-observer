@@ -4,9 +4,12 @@
        <p>{{title}}
       <a href="{{post_url}}" target="_blank"><Posted by:{{user_}}</a><span>({{format_url post_url}})</span></p>
   </div>
+
   <div class="card-body">
-    <h5 class="card-text">{{comment_text}}</h5>
+  {{#each comments}}
+    {{!-- <h5 class="card-text">{{comment_text}}</h5> --}}
        <p>{{comment_text}}</p>
+  {{/each}}
       <a href="/post/{{id}}">{{comments.length}} {{format_plural "comment" comments.length}}</a>.</p>
   </div>
 </div>
