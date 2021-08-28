@@ -38,7 +38,6 @@ body, html {
   color: #333;
   background-color:beige;
 }
-
 a {
   text-decoration: none;
   color:Teal;
@@ -224,7 +223,54 @@ main {
 .edit-post-form {
   margin-bottom: 5%;
 }
-
+.signup-form{
+  float: left;
+  border: solid  rgb(22, 8, 8);
+  border-radius: 15px;
+  padding: 10px;
+  background: teal;
+  color:  beige;
+  font-weight: bold;
+  border-spacing: 40px;
+}
+.login-form{
+  float: right;
+  border: solid  rgb(22, 8, 8);
+  border-radius: 15px;
+  padding: 10px;
+  background: teal;
+  color:  beige;
+  font-weight: bold;
+  border-spacing: 40px;  
+}
+h2 {
+  margin: 10;
+  position: relative;
+  left:90%;
+  -ms-transform: translateX(-50%);
+  transform:translateX(-50%);
+  font-weight: bold;
+  font-style: italic;
+  font-size: 36px;
+}
+.new-post-form{float: Center;
+  border: solid  rgb(22, 8, 8);
+  margin: 0;
+  position: relative;
+  left:50%;
+  -ms-transform: translateX(-50%);
+  transform:translateX(-50%);
+  border-radius: 15px;
+  padding-left: 100px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: teal;
+  color:  beige;
+  font-weight: bold;
+  align-content: center;
+  width: 50%; 
+}
 footer {
   border-top: 10px solid teal;
   display: flex;
