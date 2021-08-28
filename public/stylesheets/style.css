@@ -50,10 +50,10 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: rgb(22, 8, 8);
   border: 0;
   padding: 1%;
-  color: white;
+  color: navy;
   font-weight: bold;
   transition: background-color .1s;
   cursor: pointer;
@@ -98,7 +98,8 @@ span{
 textarea, input {
   padding: .5%;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 3px solid navy;
+  background-color: beige;
 }
 
 textarea:focus, input:focus {
@@ -189,8 +190,9 @@ main {
 }
 
 .upvote-btn {
-  background-color: #197d0f;
+  background-color:teal;
   transition: background-color .1s;
+  color: rgb(22, 8, 8)
 }
 
 .upvote-btn:hover {
@@ -204,6 +206,7 @@ main {
 .comment {
   padding: 1%;
   margin-bottom: 1%;
+  border:teal;
 }
 
 .comment:nth-child(odd) {
