@@ -11,15 +11,18 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1>
-        <a href="/">The Casual Observer</a>
-      </h1>
+      <h2>
+        <a href="#default" class ="logo">The Casual Observer</a>
+      </h2>
       <nav>
+        <a href="/">Home</a>
+        
         {{#if loggedIn}}
-        <a href="/dashboard">dashboard</a>
-        <button id="logout" class="btn-no-style">logout</button>
+        <a href="/dashboard">Dashboard</a>
+        <button id="logout" class="btn-no-style">Logout</button>
         {{else}}
-        <a href="/login">login</a>
+        <a href="/signup">Signup</a>
+        <a href="/login">Login</a>
         {{/if}}
       </nav>
     </header>

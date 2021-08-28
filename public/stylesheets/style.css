@@ -42,6 +42,32 @@ button:hover {
   padding: 0;
 }
 
+.card{
+      border: solid rgb(22, 8, 8);
+      background-color: beige;
+      border-radius: 15px;
+
+}
+.card-header{border: solid  rgb(22, 8, 8);
+  color: navy;
+  background:teal;
+  /* margin-top: -16px; */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  width: 100%;
+  border-bottom: solid rgb(22, 8, 8) ;
+}
+.card-body {
+  background: beige;
+  padding-bottom: 0;
+  border-top: rgb(22, 8, 8);
+}
+.card-text {background: white;
+color: navy;
+}
+span{
+  text-justify: left;
+}
 textarea, input {
   padding: .5%;
   border-radius: 5px;
@@ -85,6 +111,7 @@ header {
 
 header h1 {
   font-size: 1em;
+  align-items: left;
 }
 
 main {
