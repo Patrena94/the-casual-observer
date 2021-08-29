@@ -72,7 +72,6 @@ The contributor will need to created an .env file. The .env file name should be 
 ![image](https://user-images.githubusercontent.com/83892241/131260488-1a0ad928-7ba2-436e-bcf6-51fd951ff99a.png)
 ![image](https://user-images.githubusercontent.com/83892241/131260501-7b31dd49-dee6-43b0-9d0f-603ebcadafef.png)
 ![image](https://user-images.githubusercontent.com/83892241/131260539-f1710b87-7648-4f83-bb2b-5ead6ce200c1.png)
-![image](https://user-images.githubusercontent.com/83892241/131260551-9e198025-3813-4d09-b4bb-aa802b9c9b50.png)
 ![image](https://user-images.githubusercontent.com/83892241/131260566-39a71ad5-10d5-4a22-84e3-66b5f72e2fac.png)
 ![image](https://user-images.githubusercontent.com/83892241/131260591-a48f0415-b3f7-4820-b556-5094c48a98ca.png)
 ![image](https://user-images.githubusercontent.com/83892241/131260602-75ef2639-b65c-4133-8e40-7c29eb1bafee.png)
