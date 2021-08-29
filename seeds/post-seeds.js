@@ -2,104 +2,103 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    post_url: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    title: 'Authentic Italian Recipes.',
+    post_url: 'https://foodnetwork.com',
     user_id: 10
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'https://nasa.gov/donec.json',
+    title: 'Explore Moon to MARS.',
+    post_url: 'https://www.nasa.gov/topics/moon-to-mars',
     user_id: 8
   },
   {
-    title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    post_url: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    title: 'Top Toy Makers say their products will be harder to find and more expensive this holiday season',
+    post_url: 'https://cnn.com',
     user_id: 1
   },
   {
-    title: 'Nunc purus.',
-    post_url: 'http://desdev.cn/enim/blandit/mi.jpg',
+    title: 'Chocolate Cake',
+    post_url: 'http://foodnetwork.com',
     user_id: 4
   },
   {
-    title: 'Pellentesque eget nunc.',
-    post_url: 'http://google.ca/nam/nulla/integer.aspx',
+    title: 'Johny Cash.',
+    post_url: 'http://wikipedia.com',
     user_id: 7
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
-    post_url: 'https://stanford.edu/consequat.png',
+    title: 'Responsive Web Design with HTML5 and CSS.',
+    post_url: 'https://border.com',
     user_id: 4
   },
   {
-    title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://edublogs.org/non/ligula/pellentesque.js',
+    title: 'HTML & CSS design and build websites.',
+    post_url: 'http://barnesand noble.com',
     user_id: 1
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    post_url: 'http://ucla.edu/consequat/nulla.html',
+    title: 'PHP,MySQL & JavaScript All in One.',
+    post_url: 'http://amazon.com',
     user_id: 1
   },
   {
-    title: 'Duis ac nibh.',
-    post_url: 'http://theguardian.com/dui/vel/nisl/duis/ac/nibh.aspx',
+    title: 'JavaScript& JQuery interactive front-end web development.',
+    post_url: 'http://ebay.com',
     user_id: 9
   },
   {
-    title: 'Curabitur at ipsum ac tellus semper interdum.',
-    post_url: 'https://reverbnation.com/ligula/sit.jpg',
+    title: 'Ida, Already A Category 4 Hurricane, is still Intensifying as i nears the Gulf Coast.',
+    post_url: 'https://npr.com',
     user_id: 5
   },
   {
-    title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://china.com.cn/lectus/vestibulum.json',
+    title: 'How to finally become a morning person and enjoy it.',
+    post_url: 'http://womenshealth.com',
     user_id: 3
   },
   {
-    title: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.',
-    post_url: 'http://networksolutions.com/nam/ultrices/libero/non/mattis/pulvinar.json',
+    title: 'Humans can Develop a Sixth Sense, Study Proves.',
+    post_url: 'http://popularmechanics',
     user_id: 10
   },
   {
-    title: 'Donec dapibus.',
-    post_url: 'https://instagram.com/ac/neque/duis/bibendum/morbi/non.xml',
+    title: 'The Best Habits and Hacks for homing form work.',
+    post_url: 'https://menshealth.com',
     user_id: 8
   },
   {
-    title: 'Nulla tellus.',
-    post_url: 'https://lycos.com/natoque/penatibus/et.html',
+    title: 'Why Nearly 80 percent of Autoimmune Sufferers are Female.',
+    post_url: 'https://scientificAmerican.com',
     user_id: 3
   },
   {
-    title: 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.',
-    post_url: 'https://gmpg.org/lorem.jpg',
+    title: 'Treasury Demands Shows Resilience as Fed Signals Bond-Buying Pullback.',
+    post_url: 'https://wsj.com',
     user_id: 3
   },
   {
-    title:
-      'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.',
-    post_url: 'https://paginegialle.it/mattis/egestas.jsp',
+    title: 'Stock Market Turns Cautious as Defesive Shares Surge',
+    post_url: 'https://wsj.com',
     user_id: 7
   },
   {
-    title: 'In hac habitasse platea dictumst.',
-    post_url: 'http://wikia.com/turpis/eget.jpg',
+    title: 'Lifing room wall ideas 10 inspirational design tips for the blank wall in your lounge.',
+    post_url: 'http://homesand gardens.com',
     user_id: 6
   },
   {
-    title: 'Etiam justo.',
-    post_url: 'https://shareasale.com/quis.json',
+    title: '8 Best Browsers for Windows 10.',
+    post_url: 'https://gadgetliv.com',
     user_id: 4
   },
   {
-    title: 'Nulla ut erat id mauris vulputate elementum.',
-    post_url: 'http://java.com/diam/neque/vestibulum/eget/vulputate/ut/ultrices.png',
+    title: '10 Best Gaming PCs.',
+    post_url: 'http://buyersguide.org',
     user_id: 6
   },
   {
-    title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
-    post_url: 'https://java.com/at/nibh/in.png',
+    title: 'Best Calamari.',
+    post_url: 'https://ruthchris.com',
     user_id: 7
   }
 ];

@@ -225,25 +225,49 @@ main {
 .edit-post-form {
   margin-bottom: 5%;
 }
+.signup-form input{
+  width:80%;
+}
 .signup-form{
-  float: left;
+  float: Center;
   border: solid  rgb(22, 8, 8);
+  margin: 0;
+  position: relative;
+  left:50%;
+  -ms-transform: translateX(-50%);
+  transform:translateX(-50%);
   border-radius: 15px;
-  padding: 10px;
+  padding-left: 100px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background: teal;
   color:  beige;
   font-weight: bold;
-  border-spacing: 40px;
+  align-content: center;
+  width: 50%; 
+}
+.login-form input{
+  width:80%;
 }
 .login-form{
-  float: right;
+  float: left;
   border: solid  rgb(22, 8, 8);
+  margin: 0;
+  position: relative;
+  left:50%;
+  -ms-transform: translateX(-50%);
+  transform:translateX(-50%);
   border-radius: 15px;
-  padding: 10px;
+  padding-left: 100px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background: teal;
   color:  beige;
   font-weight: bold;
-  border-spacing: 40px;  
+  align-content: center;
+  width: 50%; 
 }
 h2 {
   margin: 10;
@@ -280,7 +304,7 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
-.signup-log { font-size: .8rem;
+.signup-logo { font-size: .8rem;
   background-color: rgb(22, 8, 8);
   color:  teal;
   padding: 5px 5px;
@@ -291,7 +315,24 @@ footer {
   margin-right: 10%;
   justify-content: center;
   margin-bottom: 2px;
+  width: 80%;
 }
+
+.login-logo { font-size: .8rem;
+  background-color: rgb(22, 8, 8);
+  color:  teal;
+  padding: 5px 5px;
+  display: inline-block;
+  font-style: italic;
+  border-radius: 15px;
+  box-shadow: 3px 2px beige;
+  margin-right: 10%;
+  justify-content: center;
+  margin-bottom: 2px;
+  width: 80%;
+  font-size: 18px; 
+}
+
  
 /*responsiveness - on screens less than 500px*/
 @media screen and (max-width: 500px) {
