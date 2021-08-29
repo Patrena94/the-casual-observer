@@ -46,7 +46,7 @@ a {
 }
 
 a:hover {
-  color: #3486eb;
+  color: navy;
 }
 
 button {
@@ -280,4 +280,13 @@ footer {
   justify-content: center;
   padding: 1%;
   font-size: 110%;
+}
+/*responsiveness - on screens less than 500px*/
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
 }
