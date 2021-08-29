@@ -68,6 +68,23 @@ The contributor will need to created an .env file. The .env file name should be 
 
 # Screenshots
 
+![image](https://user-images.githubusercontent.com/83892241/131260474-48d8004d-d32a-428c-afda-3fa4a32a9f08.png)
+![image](https://user-images.githubusercontent.com/83892241/131260488-1a0ad928-7ba2-436e-bcf6-51fd951ff99a.png)
+![image](https://user-images.githubusercontent.com/83892241/131260501-7b31dd49-dee6-43b0-9d0f-603ebcadafef.png)
+![image](https://user-images.githubusercontent.com/83892241/131260539-f1710b87-7648-4f83-bb2b-5ead6ce200c1.png)
+![image](https://user-images.githubusercontent.com/83892241/131260551-9e198025-3813-4d09-b4bb-aa802b9c9b50.png)
+![image](https://user-images.githubusercontent.com/83892241/131260566-39a71ad5-10d5-4a22-84e3-66b5f72e2fac.png)
+![image](https://user-images.githubusercontent.com/83892241/131260591-a48f0415-b3f7-4820-b556-5094c48a98ca.png)
+![image](https://user-images.githubusercontent.com/83892241/131260602-75ef2639-b65c-4133-8e40-7c29eb1bafee.png)
+![image](https://user-images.githubusercontent.com/83892241/131260617-87316434-b49e-4e7a-9708-4325ee8d3811.png)
+![image](https://user-images.githubusercontent.com/83892241/131260629-cb0c3082-aafa-488b-bd16-13abdee38088.png)
+![image](https://user-images.githubusercontent.com/83892241/131260639-99bb255f-b09d-48ed-9090-a2c87f1fd22c.png)
+![image](https://user-images.githubusercontent.com/83892241/131260662-000a6e31-612c-45c4-8620-b3bca83732df.png)
+![image](https://user-images.githubusercontent.com/83892241/131260680-72136d1a-eb12-44c6-960a-04858cd87acb.png)
+![image](https://user-images.githubusercontent.com/83892241/131260691-58326171-0d14-4882-8d47-254fbe08ae67.png)
+![image](https://user-images.githubusercontent.com/83892241/131260701-5d940db6-637d-4177-80fd-4911787ac735.png)
+![image](https://user-images.githubusercontent.com/83892241/131260712-0b260af9-0caa-4799-bfca-191f0745a198.png)
+
 
 ❤️ Made with Love by Patrena, LLC. 2021
 ![Build Status](https://img.shields.io/github/languages/top/Patrena94/Smith-Corporation-Work-Scheduler)  
