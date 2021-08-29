@@ -40,7 +40,7 @@
 # Usage
 The user will need to visit https://the-casual-observer.herokuapp.com/dashboard/ to review current post.  The user will need to sign up to be a member in order to contribute content to the site.  The member should select either dashboard or Log-in.  The user will be directed to enter a Username, password, and email address. The user will then be directed to their personal dashboard where they may post a new comment. The comment is saved to the website under the user’s dashboard as well as the home page.   The member will be able to comment and vote on any post on the homepage as well.  In addition, the member has the option to update and delete their own post at any time. 
 
-Users and Contributors may review a walk-through video of the above description by clicking the Screencastify link below
+Users and Contributors may review a walk-through video of the above description by clicking the Screencastify link below:
 
 # Screencastify
 
@@ -53,7 +53,10 @@ Insomnia walk through video:
 MYSQL walk through video (New Table) 
 
 
+# Heroku
+The application has been deployed utilizing Heroku. Please review the application utilzing the below link.
 
+https://the-casual-observer.herokuapp.com/
   
 # Contribution
 User interested in contributing to the project will need to create their own branch in GitHub.  They may submit changes and updates to be incorporated into the app for approval by the owner.  Individual may also fork the application to their individual accounts. 
