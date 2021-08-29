@@ -82,7 +82,7 @@ const postdata = [
     user_id: 7
   },
   {
-    title: 'Lifing room wall ideas 10 inspirational design tips for the blank wall in your lounge.',
+    title: 'Living room wall ideas 10 inspirational design tips for the blank wall in your lounge.',
     post_url: 'http://homesand gardens.com',
     user_id: 6
   },

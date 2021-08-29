@@ -48,7 +48,9 @@ Users and Contributors may review a walk-through video of the above description 
 MYSQL walk through video (Original Table)
 
 
-Insomnia walk through video:
+Heroku walk through video:
+
+https://drive.google.com/file/d/1bHCHlovwCcpGTFtZql_B9BGUHFKW3m_7/view
 
 MYSQL walk through video (New Table) 
 
